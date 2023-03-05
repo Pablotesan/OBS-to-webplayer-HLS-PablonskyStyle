@@ -5,7 +5,7 @@ Stream video using OBS to a webpage. Includes SSL certbot integration.
 
 ---
 
-If you just want a Palbonsky-Style version:
+If you don´t want a Pablonsky-Style version:
 
 - Check the localhost version:
   [OBS-to-local-webplayer-HLS](https://github.com/Pablotesan/OBS-to-local-webplayer-HLS)
