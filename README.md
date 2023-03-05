@@ -3,6 +3,16 @@ Stream video using OBS to a webpage. Includes SSL certbot integration.
 
 (Having a domain, Docker and Docker-Compose installed is needed.)
 
+---
+
+If you just want a Palbonsky-Style version:
+
+- Check the localhost version:
+  [OBS-to-local-webplayer-HLS](https://github.com/Pablotesan/OBS-to-local-webplayer-HLS)
+- Check the general version:
+  [OBS-to-webplayer-HLS](https://github.com/Pablotesan/OBS-to-webplayer-HLS)
+---
+
 Steps:
 1. Set up the webpage:
 
